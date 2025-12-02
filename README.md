@@ -3,7 +3,7 @@
 I'm Wangsa.  
 I'm a computer science student exploring the cybersecurity world and Linux ecosystem.  
 I mainly use Python to build tools, automation scripts, and custom trial programs.  
-My long-term ambition is to specialize in malware development and ethical hacking 🔥
+i am aspired to specialize and work in malware development and ethical hacking in the future🔥
 
 ---
 
